@@ -1,0 +1,10 @@
+Material Number,Folder,Material Name,CONSTRUCTION,KNIT TYPE,WIDTH,Main Image,Detail Image,Color HEX,Color Number,Color Name,Color Image,Size Name,Size UOM,Size Price,Size Currency,Supplier Name,Supplier Country,Supplier City,Supplier State,Supplier Address,Supplier Zip,Supplier Phone,Supplier Fax,Supplier Website,Supplier Type
+YG1,Knits,Yuri Golub Material 1,Value Const,Cable Knit,10,main.jpg,detail.jpg,0,BL1,Black Color,,,,,,,,,,,,,,,
+YG1,,,,,,,,FF0000,R1,Red,,,,,,,,,,,,,,,
+YG1,,,,,,,,,,,,X,,10,USD,,,,,,,,,,
+YG1,,,,,,,,,,,,XL,,100,USD,,,,,,,,,,
+YG1,,,,,,,,,,,color.jpg,XXXL,,1010,USD,,,,,,,,,,
+YG1,,,,,,,,,,,,,,,,Yuri Supplier,Bulgaria,Varna,Varna State,"Slivnitsa St., 10",9000,360000000000,98,http://beproduct.com,VENDOR
+YG1,,,,,,,,,,,,,,,,Factory Sample,,,,,,,,,
+YG2,Labels,Yuri Golub Material 2,Value Const,Cable Knit,10,main.jpg,detail.jpg,,BL1,Black Color,,,,,,,,,,,,,,,
+YG2,,,,,,,,,,,,One size,,110,USD,,,,,,,,,,
